@@ -53,7 +53,7 @@ genpac --proxy="SOCKS5 127.0.0.1:1080" --gfwlist-proxy="SOCKS5 127.0.0.1:1080" -
 
 - 设置系统自动代理，在设置-->网络设置-->代理设置中选择自动代理，URL填写生成的PAC文件地址，file://文件路径/文件名(可以直接把文件拖到URL栏)
 
-![1535019223724](./Linux shadowsocks-qt5 教程.assets/1535019223724.png)
+![1535019223724](Linux shadowsocks-qt5 教程.assets/1535019223724.png)
 
 
 
@@ -64,7 +64,7 @@ genpac --proxy="SOCKS5 127.0.0.1:1080" --gfwlist-proxy="SOCKS5 127.0.0.1:1080" -
 - 本仓库中就有此文件直接下载后放到指定路径，然后将此文件拖到浏览器中查看url地址
 
 
-![1535019548795](./Linux shadowsocks-qt5 教程.assets/1535019548795.png)
+![1535019548795](Linux shadowsocks-qt5 教程.assets/1535019548795.png)
 
 - 把该地址复制到`配置 URL`框中，点击`应用到系统全局`按钮
 
