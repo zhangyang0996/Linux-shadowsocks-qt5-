@@ -4,7 +4,7 @@
 
 前提你要有这个SS服务端，咱们现在搭建的是Ubuntu客户端
 
-服务端可以使用第三方的，速度比较快：http://91tianlu.win/aff.php?aff=1993
+服务端可以使用第三方的，速度比较快1080p视频没问题：http://91tianlu.win/aff.php?aff=1993
 
 shadowsocks-qt5 需要通过PPA源安装，仅支持Ubuntu 14.04或更高版本。
  1、设置 PPA 源并安装 shadowsocks-qt5
